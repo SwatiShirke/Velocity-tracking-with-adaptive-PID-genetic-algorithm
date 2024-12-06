@@ -52,7 +52,7 @@ Markdown does not directly support CSS or inline styling like HTML. To arrange i
 ## PID Tuning
 | **PID Tuning - Graph 1** | **PID Tuning - Graph 2** |
 |--------------------------|--------------------------|
-| ![PID Tuning 1](Results/PID_tunning/Vel_graph.jpg) | ![PID Tuning 2](Results/PID_tunning2/Vx.png) |
+| ![PID Tuning 1](Results/PID_tunning/Vel_graph.jpg) | ![PID Tuning 2](Results/PID_tunning2/Vx.jpg) |
 
 ---
 
