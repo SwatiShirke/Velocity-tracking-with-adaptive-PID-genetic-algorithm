@@ -55,5 +55,3 @@ Markdown does not directly support CSS or inline styling like HTML. To arrange i
 | ![PID Tuning 1](Results/PID_tunning/Vel_graph.jpg) | ![PID Tuning 2](Results/PID_tunning2/Vx.jpg) |
 
 ---
-
-This approach aligns images into a grid without relying on HTML-specific styling, ensuring compatibility with Markdown viewers such as GitHub. Replace `path/to/...` with the actual paths to your images.
