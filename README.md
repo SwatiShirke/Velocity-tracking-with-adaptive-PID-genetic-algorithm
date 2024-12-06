@@ -6,22 +6,22 @@
 <div style="display: flex; justify-content: space-between;">
     <div>
         <p><strong>Longitudinal Velocity</strong></p>
-        <img src="Results/case1/pose.jpg" alt="Case 1 - Longitudinal Velocity" width="45%">
+        <img src="Results/case1/Vx.jpg" alt="Case 1 - Longitudinal Velocity" width="45%">
     </div>
     <div>
         <p><strong>Lateral Velocity</strong></p>
-        <img src="path/to/case1_lateral.png" alt="Case 1 - Lateral Velocity" width="45%">
+        <img src="Results/case1/Vy.jpg" alt="Case 1 - Lateral Velocity" width="45%">
     </div>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
     <div>
         <p><strong>Pose (2D)</strong></p>
-        <img src="path/to/case1_pose2d.png" alt="Case 1 - Pose 2D" width="45%">
+        <img src="Results/case1/pose" alt="Case 1 - Pose 2D" width="45%">
     </div>
     <div>
         <p><strong>Lateral Acceleration</strong></p>
-        <img src="path/to/case1_lateral_acceleration.png" alt="Case 1 - Lateral Acceleration" width="45%">
+        <img src="Results/case1/pose.jpg" alt="Case 1 - Lateral Acceleration" width="45%">
     </div>
 </div>
 
