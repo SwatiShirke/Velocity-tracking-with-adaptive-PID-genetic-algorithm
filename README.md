@@ -4,7 +4,7 @@
 
 ### Case 1
 1. **Longitudinal Velocity**
-   ![Case 1 - Longitudinal Velocity](results/case1/pose.jpeg)
+   ![Case 1 - Longitudinal Velocity](/Results/case1/pose.jpeg)
 2. **Lateral Velocity**
    ![Case 1 - Lateral Velocity](path/to/case1_lateral.png)
 3. **Pose (2D)**
