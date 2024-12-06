@@ -6,7 +6,7 @@ Markdown does not directly support CSS or inline styling like HTML. To arrange i
 
 ## Case Studies
 
-### Case 1 Torque in = 450 NM and Steering angle = 0 rad/s  
+### Case 1 Torque in = 225 NM and Steering angle = 0 rad/s  
 | **Longitudinal Velocity** | **Lateral Velocity** |
 |---------------------------|-----------------------|
 | ![Longitudinal Velocity](Results/case1/Vx.jpg) | ![Lateral Velocity](Results/case1/Vy.jpg) |
@@ -17,14 +17,14 @@ Markdown does not directly support CSS or inline styling like HTML. To arrange i
 
 ---
 
-### Case 2 Torque in = 225 NM and Steering angle = 0 rad/s
+### Case 2 Torque in = 450 NM and Steering angle = 0 rad/s
 | **Longitudinal Velocity** | **Lateral Velocity** |
 |---------------------------|-----------------------|
 | ![Longitudinal Velocity](Results/Case-2/Vx.jpg) | ![Lateral Velocity](Results/Case-2/Vy.jpg) |
 
 | **Pose (2D)**             | **Lateral Acceleration** |
 |---------------------------|---------------------------|
-| ![Pose (2D)](Results/Case-2/pose.jpg) | ![Lateral Acceleration](Results/Case-2/Latt_acc.jpg) |
+| ![Pose (2D)](Results/Case-2/pose.jpg) | ![Lateral Acceleration](Results/Case-2/Lat_acc.jpg) |
 
 ---
 
