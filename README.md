@@ -9,11 +9,11 @@ Markdown does not directly support CSS or inline styling like HTML. To arrange i
 ### Case 1
 | **Longitudinal Velocity** | **Lateral Velocity** |
 |---------------------------|-----------------------|
-| ![Longitudinal Velocity](Results/case1/Vx.jpg) | ![Lateral Velocity](path/to/case1_lateral.png) |
+| ![Longitudinal Velocity](Results/case1/Vx.jpg) | ![Lateral Velocity](Results/case1/Vy.jpg) |
 
 | **Pose (2D)**             | **Lateral Acceleration** |
 |---------------------------|---------------------------|
-| ![Pose (2D)](Results/case1/Vy.jpg) | ![Lateral Acceleration](path/to/case1_lateral_acceleration.png) |
+| ![Pose (2D)](Results/case1/pose.jpg) | ![Lateral Acceleration](Results/case1/lat_accel.jpg) |
 
 ---
 
