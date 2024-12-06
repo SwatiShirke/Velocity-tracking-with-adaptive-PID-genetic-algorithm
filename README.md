@@ -28,6 +28,17 @@ Markdown does not directly support CSS or inline styling like HTML. To arrange i
 
 ---
 
+### Case 3 Torque in = 100 NM and Steering angle = 0.1 rad/s
+| **Longitudinal Velocity** | **Lateral Velocity** |
+|---------------------------|-----------------------|
+| ![Longitudinal Velocity](Results/case-3/Vx.jpg) | ![Lateral Velocity](Results/case-3/Vy.jpg) |
+
+| **Pose (2D)**             | **Lateral Acceleration** |
+|---------------------------|---------------------------|
+| ![Pose (2D)](Results/case-3/pose.jpg) | ![Lateral Acceleration](Results/case-3/lat_acc.jpg) |
+
+---
+
 ## PID Tuning
 | **PID Tuning - Graph 1** | **PID Tuning - Graph 2** |
 |--------------------------|--------------------------|
