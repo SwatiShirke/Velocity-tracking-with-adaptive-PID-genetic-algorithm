@@ -1,72 +1,59 @@
 # Velocity Control on 4-Wheel Driveline Model with PID Controller
 
-## Project Overview
-This project focuses on velocity control for a 4-wheel driveline dynamic model using a PID controller. The system is designed to regulate the vehicle's speed and ensure smooth and stable performance across various scenarios. The project includes comprehensive analysis through multiple graphs illustrating different dynamic behaviors and PID tuning performance.
+## Case Studies
 
-## Features
-- **4-Wheel Driveline Model**: Simulates a realistic vehicle dynamic system.
-- **PID Controller Implementation**: Fine-tuned for optimal velocity tracking and stability.
-- **Performance Analysis**:
-  - Longitudinal velocity
-  - Lateral velocity
-  - Pose (2D)
-  - Lateral acceleration
-- **PID Tuning Analysis**: Includes two specific graphs demonstrating the tuning process and its impact on system performance.
-
-## Graph Details
-### Case Studies
-1. **Case 1**: Analysis of longitudinal and lateral velocity, pose (2D), and lateral acceleration under specified conditions.
-2. **Case 2**: Results for modified input or environmental parameters.
-3. **Case 3**: System response under a different set of dynamic conditions.
-4. **Case 4**: Performance metrics for another unique scenario.
-
-Each case provides insights into the system's behavior under varying conditions, helping validate the model's accuracy and the controller's robustness.
-
-### PID Tuning
-- Graphs illustrate the tuning process and the effect of PID parameter adjustments on system performance. 
-- Focuses on minimizing overshoot, steady-state error, and achieving optimal response times.
-
-## Getting Started
-### Prerequisites
-- Python (version X.X or higher)
-- Required libraries: [e.g., NumPy, Matplotlib, etc.]
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [repository-url]
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd [project-folder]
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Running the Code
-1. Execute the main script:
-   ```bash
-   python main.py
-   ```
-2. The graphs for all cases and PID tuning will be generated in the `output` folder.
-
-## Usage
-- Use the generated graphs to analyze the system's performance under various conditions.
-- Adjust PID parameters in the `config.py` file to explore the impact on velocity control and stability.
-
-## Future Work
-- Implement additional control strategies (e.g., Model Predictive Control).
-- Extend the model to include complex road and terrain interactions.
-- Explore multi-objective optimization for PID tuning.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-- Special thanks to [Your Institution/Organization] for support and resources.
+### Case 1
+1. **Longitudinal Velocity**
+   ![Case 1 - Longitudinal Velocity](results/case1/pose.jpeg)
+2. **Lateral Velocity**
+   ![Case 1 - Lateral Velocity](path/to/case1_lateral.png)
+3. **Pose (2D)**
+   ![Case 1 - Pose 2D](path/to/case1_pose2d.png)
+4. **Lateral Acceleration**
+   ![Case 1 - Lateral Acceleration](path/to/case1_lateral_acceleration.png)
 
 ---
 
-Feel free to customize this template based on the specific details of your project!
+### Case 2
+1. **Longitudinal Velocity**
+   ![Case 2 - Longitudinal Velocity](path/to/case2_longitudinal.png)
+2. **Lateral Velocity**
+   ![Case 2 - Lateral Velocity](path/to/case2_lateral.png)
+3. **Pose (2D)**
+   ![Case 2 - Pose 2D](path/to/case2_pose2d.png)
+4. **Lateral Acceleration**
+   ![Case 2 - Lateral Acceleration](path/to/case2_lateral_acceleration.png)
+
+---
+
+### Case 3
+1. **Longitudinal Velocity**
+   ![Case 3 - Longitudinal Velocity](path/to/case3_longitudinal.png)
+2. **Lateral Velocity**
+   ![Case 3 - Lateral Velocity](path/to/case3_lateral.png)
+3. **Pose (2D)**
+   ![Case 3 - Pose 2D](path/to/case3_pose2d.png)
+4. **Lateral Acceleration**
+   ![Case 3 - Lateral Acceleration](path/to/case3_lateral_acceleration.png)
+
+---
+
+### Case 4
+1. **Longitudinal Velocity**
+   ![Case 4 - Longitudinal Velocity](path/to/case4_longitudinal.png)
+2. **Lateral Velocity**
+   ![Case 4 - Lateral Velocity](path/to/case4_lateral.png)
+3. **Pose (2D)**
+   ![Case 4 - Pose 2D](path/to/case4_pose2d.png)
+4. **Lateral Acceleration**
+   ![Case 4 - Lateral Acceleration](path/to/case4_lateral_acceleration.png)
+
+---
+
+## PID Tuning
+
+1. **PID Tuning - Graph 1**
+   ![PID Tuning 1](path/to/pid_tuning1.png)
+
+2. **PID Tuning - Graph 2**
+   ![PID Tuning 2](path/to/pid_tuning2.png)
