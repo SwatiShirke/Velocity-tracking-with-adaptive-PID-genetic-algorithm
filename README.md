@@ -38,14 +38,14 @@ Markdown does not directly support CSS or inline styling like HTML. To arrange i
 | ![Pose (2D)](Results/case-3/pose.jpg) | ![Lateral Acceleration](Results/case-3/lat_acc.jpg) |
 
 ---
-### Case 3 Torque in = 100 NM and Steering angle = -0.1 rad/s
+### Case 3 Torque in = 100 NM and Steering angle = 0.1 rad/s Left Turn
 | **Longitudinal Velocity** | **Lateral Velocity** |
 |---------------------------|-----------------------|
 | ![Longitudinal Velocity](Results/Case-4/Vx.jpg) | ![Lateral Velocity](Results/Case-4/Vy.jpg) |
 
 | **Pose (2D)**             | **Lateral Acceleration** |
 |---------------------------|---------------------------|
-| ![Pose (2D)](Results/Case-4/pose.jpg) | ![Lateral Acceleration](Results/Case-4/lat_accel.jpg) |
+| ![Pose (2D)](Results/Case-4/pos.jpg) | ![Lateral Acceleration](Results/Case-4/lat_accel.jpg) |
 
 ---
 
