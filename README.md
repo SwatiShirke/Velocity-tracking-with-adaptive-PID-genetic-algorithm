@@ -24,7 +24,7 @@ Markdown does not directly support CSS or inline styling like HTML. To arrange i
 
 | **Pose (2D)**             | **Lateral Acceleration** |
 |---------------------------|---------------------------|
-| ![Pose (2D)](Results/Case-2/pose.jpg) | ![Lateral Acceleration](Results/Case-2/Latacc.jpg) |
+| ![Pose (2D)](Results/Case-2/pose.jpg) | ![Lateral Acceleration](Results/Case-2/Latt_acc.jpg) |
 
 ---
 
